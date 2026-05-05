@@ -3,6 +3,6 @@
 Public legal documents for the MLM CRM mobile application.
 
 - [Privacy Policy](/privacy/)
-- Terms & Conditions (coming soon)
+- [Terms of Service](/terms/)
 
 Hosted via GitHub Pages.
