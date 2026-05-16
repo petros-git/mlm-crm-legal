@@ -4,13 +4,13 @@ permalink: /terms/
 
 # Terms of Service
 
-**Effective Date:** 5 May 2026
+**Effective Date:** 16 May 2026
 
-**Last Updated:** 5 May 2026
+**Last Updated:** 16 May 2026
 
-These Terms of Service ("Terms") govern your access to and use of the MLM CRM mobile application ("the Application", "we", "us", or "our"), operated by Petros Chatzianastasiou ("Service Provider"), based in Greece (European Union).
+These Terms of Service ("Terms") govern your access to and use of the DialDay mobile application ("the Application", "we", "us", or "our"), operated by Petros Chatzianastasiou ("Service Provider"), based in Greece (European Union).
 
-By downloading, installing, accessing, or using MLM CRM, you agree to be bound by these Terms. If you do not agree, do not use the Application.
+By downloading, installing, accessing, or using DialDay, you agree to be bound by these Terms. If you do not agree, do not use the Application.
 
 ---
 
@@ -20,7 +20,7 @@ By creating an account or using the Application, you confirm that:
 
 - You are at least 16 years of age (or the legal minimum age in your jurisdiction)
 - You have the legal capacity to enter into a binding agreement
-- You agree to comply with these Terms and our [Privacy Policy](https://petros-git.github.io/mlm-crm-legal/privacy/)
+- You agree to comply with these Terms and our [Privacy Policy](https://petros-git.github.io/dialday-legal/privacy/)
 - The information you provide is accurate and you will keep it up to date
 
 If you are using the Application on behalf of an organization, you represent that you have the authority to bind that organization to these Terms.
@@ -29,7 +29,7 @@ If you are using the Application on behalf of an organization, you represent tha
 
 ## 2. Description of Service
 
-MLM CRM is a customer relationship management application designed for direct sales representatives, network marketing distributors, and independent sales professionals. The Application provides:
+DialDay is a customer relationship management application designed for direct sales representatives and independent sales professionals. The Application provides:
 
 - Contact management with phone book synchronization
 - Call logging and activity tracking
@@ -104,7 +104,7 @@ You agree NOT to use the Application to:
 - Violate any law, regulation, or third-party right
 - Send spam, unsolicited messages, or fraudulent communications
 - Store contact data without the consent of the contact owner
-- Engage in deceptive marketing, pyramid schemes, or illegal multi-level marketing structures
+- Engage in deceptive marketing or pyramid schemes
 - Attempt to gain unauthorized access to the Application, other user accounts, or our infrastructure
 - Reverse-engineer, decompile, or attempt to extract the source code
 - Use the Application for any purpose that infringes intellectual property rights
@@ -113,7 +113,7 @@ You agree NOT to use the Application to:
 - Upload malicious code, viruses, or harmful content
 - Impersonate another person or misrepresent your affiliation
 
-You are solely responsible for ensuring your use of the Application complies with applicable laws, including consumer protection laws, data protection laws (e.g., GDPR), and laws governing direct sales and network marketing in your jurisdiction.
+You are solely responsible for ensuring your use of the Application complies with applicable laws, including consumer protection laws, data protection laws (e.g., GDPR), and laws governing direct sales in your jurisdiction.
 
 ---
 
@@ -129,7 +129,7 @@ By using the Application, you grant us a limited, non-exclusive, worldwide, roya
 
 ### 6.3 Anonymized Usage Data
 
-We may collect anonymized, aggregated usage data (such as feature engagement frequencies, crash rates, and performance metrics) to improve the Application, fix bugs, and develop new features. This data does not identify you personally and is processed in compliance with our [Privacy Policy](https://petros-git.github.io/mlm-crm-legal/privacy/).
+We may collect anonymized, aggregated usage data (such as feature engagement frequencies, crash rates, and performance metrics) to improve the Application, fix bugs, and develop new features. This data does not identify you personally and is processed in compliance with our [Privacy Policy](https://petros-git.github.io/dialday-legal/privacy/).
 
 ### 6.4 Backups and Data Loss
 
@@ -145,7 +145,7 @@ The Application, including its software, design, branding, logos, and content (e
 
 ### 7.2 Trademarks
 
-"MLM CRM" and any associated logos are trademarks of Petros Chatzianastasiou. You may not use these trademarks without prior written permission.
+"DialDay" and any associated logos are trademarks of Petros Chatzianastasiou. You may not use these trademarks without prior written permission.
 
 ### 7.3 Feedback
 
@@ -253,7 +253,7 @@ If any provision of these Terms is found to be invalid, illegal, or unenforceabl
 
 ## 15. Entire Agreement
 
-These Terms, together with our [Privacy Policy](https://petros-git.github.io/mlm-crm-legal/privacy/), constitute the entire agreement between you and the Service Provider regarding the Application, superseding any prior agreements.
+These Terms, together with our [Privacy Policy](https://petros-git.github.io/dialday-legal/privacy/), constitute the entire agreement between you and the Service Provider regarding the Application, superseding any prior agreements.
 
 ---
 
